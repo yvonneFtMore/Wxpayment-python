@@ -20,9 +20,13 @@ class wxconfig:
 
     APPID = ''
 
+    APPSECRET = ''
+
     MCH_ID = ''
 
     TYPE = 'NATIVE'
+
+    MOBILE_TYPE = 'JSAPI'
 
     NOTIFY_URL = LOCALHOST + '/xxxxx/'
 
